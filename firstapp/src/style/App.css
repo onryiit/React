@@ -1,0 +1,6 @@
+.product{
+    max-height: 900px;
+    margin-bottom: 10px;
+    overflow:scroll;
+    -webkit-overflow-scrolling: touch;
+}
